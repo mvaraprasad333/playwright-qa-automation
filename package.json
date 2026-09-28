@@ -1,0 +1,15 @@
+{
+  "name": "playwright-qa-automation",
+  "version": "1.0.0",
+  "description": "QA Automation Framework using Playwright, TypeScript and Cucumber BDD",
+  "scripts": {
+    "test": "cucumber-js",
+    "test:headed": "cucumber-js --world-parameters '{\"headless\":false}'"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.0.0",
+    "@playwright/test": "^1.55.0",
+    "typescript": "^5.9.0",
+    "ts-node": "^10.9.2"
+  }
+}
