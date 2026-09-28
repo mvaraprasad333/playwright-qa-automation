@@ -88,7 +88,7 @@ This repository is part of my professional QA Automation portfolio and demonstra
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: [Add your LinkedIn profile URL here](https://www.linkedin.com/in/prasad-m-18068698/)
 - GitHub: Add your GitHub profile URL here
 
 ---
